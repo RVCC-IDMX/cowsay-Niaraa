@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cowsay": "^1.5.0",
     "name": "^0.0.2",
     "package": "^1.0.1",
     "your": "^0.2.3"
@@ -8,9 +9,10 @@
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "help": "cowsay -h",
+    "cows": "cowsay -l",
+    "cowsay": "cowsay"
   },
   "author": "Niara Afriyie <G00280068@stu.raritanval.edu> (https://github.com/Niaraa)",
   "license": "MIT"
