@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "name": "^0.0.2",
+    "package": "^1.0.1",
+    "your": "^0.2.3"
+  },
+  "name": "cowsay-niaraa",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niara Afriyie <G00280068@stu.raritanval.edu> (https://github.com/Niaraa)",
+  "license": "MIT"
+}
