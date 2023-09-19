@@ -1,5 +1,3 @@
 # Animals
 ## Dogs
-''' 
-** This was kinda difficult** 
-'''
+### ''' **This was kinda difficult** '''
